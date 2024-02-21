@@ -401,7 +401,7 @@ export default class PathfindingVisualizer extends Component {
     return (
       <div>
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-          <a className="navbar-brand" href="/">
+          <a className="navbar-brand" href="/pathFinderVisualizer">
             <b>PathFinding Visualizer</b>
           </a>
           <div className="collapse navbar-collapse" id="navbarNav">
